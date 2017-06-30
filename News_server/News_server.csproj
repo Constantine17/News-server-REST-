@@ -111,17 +111,16 @@
     <Content Include="default.aspx" />
     <Content Include="output\news.txt" />
     <Content Include="output\news.xml" />
-    <Content Include="Restricted\Control_spiders.aspx" />
-    <Content Include="Restricted\Control_users.aspx" />
-    <Content Include="Restricted\Main_panel.aspx" />
+    <Content Include="Users\Restricted\Control_spiders.aspx" />
+    <Content Include="Users\Restricted\Control_users.aspx" />
+    <Content Include="Users\Restricted\Main_panel.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Controllers\cacheController.cs" />
-    <Compile Include="Controllers\refreshController.cs" />
+    <Compile Include="Controllers\valuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -136,32 +135,32 @@
     <Compile Include="News_spiders\news.cs" />
     <Compile Include="News_spiders\spiders.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Restricted\Control_spiders.aspx.cs">
+    <Compile Include="Users\Restricted\Control_spiders.aspx.cs">
       <DependentUpon>Control_spiders.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Restricted\Control_spiders.aspx.designer.cs">
+    <Compile Include="Users\Restricted\Control_spiders.aspx.designer.cs">
       <DependentUpon>Control_spiders.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Restricted\Control_users.aspx.cs">
+    <Compile Include="Users\Restricted\Control_users.aspx.cs">
       <DependentUpon>Control_users.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Restricted\Control_users.aspx.designer.cs">
+    <Compile Include="Users\Restricted\Control_users.aspx.designer.cs">
       <DependentUpon>Control_users.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Restricted\Main_panel.aspx.cs">
+    <Compile Include="Users\Restricted\Main_panel.aspx.cs">
       <DependentUpon>Main_panel.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Restricted\Main_panel.aspx.designer.cs">
+    <Compile Include="Users\Restricted\Main_panel.aspx.designer.cs">
       <DependentUpon>Main_panel.aspx</DependentUpon>
     </Compile>
     <Compile Include="Users\InquiryToUsersDatabase.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-    <Content Include="Restricted\Web.config">
+    <Content Include="Users\Restricted\Web.config">
       <SubType>Designer</SubType>
     </Content>
     <None Include="Web.Debug.config">

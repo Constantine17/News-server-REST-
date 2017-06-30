@@ -21,6 +21,9 @@
             <asp:Button ID="All" runat="server" OnClick="All_Click" Text="Кешировать все" Width="176px" />
         </p>
         <p>
+            <asp:Button ID="ReadXml" runat="server" OnClick="ReadXml_Click" Text="Читать кеш" />
+        </p>
+        <p>
             <asp:Button ID="back" runat="server" OnClick="back_Click" Text="Назад" />
         </p>
         <p>

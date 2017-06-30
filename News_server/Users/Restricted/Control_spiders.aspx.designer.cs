@@ -49,6 +49,15 @@ namespace News_server.Restricted {
         protected global::System.Web.UI.WebControls.Button All;
         
         /// <summary>
+        /// ReadXml элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически создаваемое поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ReadXml;
+        
+        /// <summary>
         /// back элемент управления.
         /// </summary>
         /// <remarks>

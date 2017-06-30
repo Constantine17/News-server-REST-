@@ -1,277 +1,276 @@
 Begin
 id: 1
 Type: technology
-Sourse: https://www.theverge.com/2017/6/21/15844512/hbo-watchmen-damon-lindelof-lost
-Title: HBO is in talks for a Watchmen TV series with Lost co-creator Damon Lindelof
-Content: Who watches the Watchmen? Maybe you, soon, on HBO. The network is reportedly in talks with Damon Lindelof — co-creator of Lost and The Leftovers — to adapt the seminal graphic novel for the small...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55363301/85006386.0.jpg
+Source: https://www.theverge.com/2017/6/30/15903206/afghanistan-robot-team-denied-us-visa
+Title: US denies visas to Afghanistan’s all-girl robotics team
+Content: Six teenage girls from Afghanistan planned to come to the US to compete in the First Global Challenge robotics competition this month, but those plans were canceled after they were denied visas to...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55530599/made_this_rob_car_waiting_1200x859.0.jpg
 ----------------------------------------------------
 id: 2
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15844280/tesla-autopilot-software-chris-lattner-ai-quit
-Title: Tesla&#39;s Autopilot software head leaves the company six months after joining from Apple
-Content: Chris Lattner, a longtime Apple software guru, has left his post running software for Tesla’s Autopilot division after just six months. Lattner announced his departure in a tweet late Tuesday....
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55362447/sokane_170524_1763_0247.0.jpg
+Source: https://www.theverge.com/2017/6/30/15904510/uber-open-letter-board-ethical-recommendations
+Title: How Uber can emerge from its scandals as a more ethical company
+Content: Stop Greyballing
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55530423/uber-stock-1049.0.0.jpg
 ----------------------------------------------------
 id: 3
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15843800/star-wars-han-solo-spinoff-directors-phil-lord-christopher-miller
-Title: Star Wars’ Han Solo spinoff directors just quit in the middle of shooting
-Content: Lucasfilm President Kathleen Kennedy announced this evening that directors Phil Lord and Christopher Miller are leaving the Han Solo standalone film over &quot;creative differences.&quot; Lord and Miller...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55360309/576767488.0.jpg
+Source: https://www.theverge.com/2017/6/30/15900642/killjoys-syfy-channel-television-season-3-explainer
+Title: Syfy’s space opera Killjoys returns tonight — here’s why you should watch
+Content: A couple of years ago, Syfy went back to its roots when it greenlit three new television shows: The Expanse, Dark Matter, and Killjoys. All three shows follow the crew of a spaceship in some sector...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55530273/show_art_Killjoys_S2.0.jpg
 ----------------------------------------------------
 id: 4
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15837398/transformers-the-last-knight-movie-review-michael-bay-autobots-decepticons
-Title: Transformers: The Last Knight is Michael Bay’s usual visually stunning, soulless mess
-Content: One thing you can say for Michael Bay’s work: it’s consistent. Bay’s name on a film project guarantees a fast-paced story filled with explosions and visually arresting action happening almost too...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55359853/Screen_Shot_2017_06_20_at_11.27.00_AM.0.png
+Source: https://www.theverge.com/2017/6/30/15904608/radioshack-creditors-sue-sprint
+Title: Sprint is getting sued for sabotaging RadioShack’s comeback
+Content: RadioShack’s creditors claim that Sprint stabbed the retailer in the back and guaranteed its doom.
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55530175/650496660.0.jpg
 ----------------------------------------------------
 id: 5
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15843556/epix-emil-rensing-guilty-plea-7-million-fraud-scheme
-Title: Former Epix chief digital officer pleads guilty to $7 million scheme
-Content: He used fake emails and shell companies to siphon funds
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55359823/584796806.0.jpg
+Source: https://www.theverge.com/2017/6/30/15904518/palmer-luckey-oculus-rift-htc-vive-vr-exclusive-games-crossvr
+Title: Palmer Luckey backs VR project to make exclusive Oculus games run on the HTC Vive
+Content: Oculus founder Palmer Luckey confirmed yesterday that he’s donating money to a virtual reality project focused on letting the HTC Vive headset play games exclusive to the Oculus Rift. The project,...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55529405/540011658.0.jpg
 ----------------------------------------------------
 id: 6
 Type: technology
-Sourse: https://www.theverge.com/circuitbreaker/2017/6/20/15843106/smartduvet-breeze-temperature-control-self-making-bed-kickstarter-indiegogo
-Title: This smart bedding makes itself and lets you control the climate on each side
-Content: You’re hot. Your partner is cold. It’s a classic story: one of you throws off the blankets in the middle of the night while the other is burrowed within them. But it defeats the point of sleeping...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55358977/smartduvet.0.gif
+Source: https://www.theverge.com/2017/6/30/15903092/wonder-woman-box-office-dceu-highest-earning
+Title: Wonder Woman reigns supreme as the DCEU’s highest-earning US film
+Content: By any metric, Patty Jenkins’ Wonder Woman has been a success. The film enjoyed the largest-ever opening weekend for a film directed by a woman. It’s now the highest-grossing live-action film...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55528495/WonderWomanTrenches.0.jpg
 ----------------------------------------------------
 id: 7
 Type: technology
-Sourse: https://www.recode.net/2017/6/20/15838646/trump-apple-amazon-google-microsoft-tech-week
-Title: Behind the scenes at President Trump’s private talks with the tech industry
-Content: For many, a meeting at the White House yesterday offered a chance to push their political and business agendas.
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55353515/697929772.0.jpg
+Source: https://www.theverge.com/2017/6/30/15903142/watch-2-22-movie-clip-michiel-huisman-teresa-palmer
+Title: In this harrowing exclusive clip from 2:22, precognition and air travel don’t mix well
+Content: It’s pretty well known that airlines prefer not to show in-flight movies featuring air disasters or near-disasters, so they’re certainly going to want to avoid Paul Currie’s 2:22, a supernatural...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55527901/222_clock_small.0.gif
 ----------------------------------------------------
 id: 8
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15841276/batman-robin-joel-schumacher-batsuit-nipples-batnipples
-Title: An ode to the best part of Joel Schumacher’s Batman &amp; Robin: the nipples
-Content: On the 20th anniversary of Batman &amp; Robin, much has been said about the film’s legacy. As a piece of entertainment, the movie was widely panned by critics and fans alike; today, it still holds a 10...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55358181/Screen_Shot_2017_06_20_at_3.49.27_PM.0.png
+Source: https://www.theverge.com/circuitbreaker/2017/6/30/15903210/htc-u11-discount-code-buy
+Title: HTC’s unlocked U11 phone is $50 off until July 1st
+Content: HTC just released the red version of its squeezable U11 phone in the US, and now it’s being marked down by $50. You can get it on sale for $599. The rest of the U11 color lineup is also available...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55527689/jbareham_170510_1663_0087.0.0.jpg
 ----------------------------------------------------
 id: 9
 Type: technology
-Sourse: https://www.theverge.com/circuitbreaker/2017/6/20/15842654/lenovo-laptop-concept-flexible-display
-Title: Lenovo shows off an absurd laptop concept with a flexible screen
-Content: Lenovo has some wild ideas to share. At an event in New York today, the company showed off its idea of the future of personal computing with an image of a bendable laptop with a flexible display; a...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55357917/SwanSept9.61_2.1497991318.jpg
+Source: https://www.theverge.com/circuitbreaker/2017/6/30/15901114/cnct-intelliplug-smart-outlet-cheap-indiegogo-good-deal
+Title: The Cnct Intelliplug is probably the cheapest way to add smart outlets to your home
+Content: If you’re interested at all in turning your house into a smart home, you’ll probably need some smart outlets. And the Cnct Intelliplug — currently running a funding campaign on Indiegogo — might be...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55525463/IMG_7061_Edit.0.jpg
 ----------------------------------------------------
 id: 10
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15777960/indigo-collaborative-superhero-novel-christopher-golden-charlaine-harris
-Title: Indigo is a collaborative superhero novel written by 10 different authors
-Content: Indigo, which hits bookstores today, has a unique selling point: it’s a superhero novel written by 10 different authors. The book follows investigative reporter Nora Hesper, who moonlights as...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55357575/9781250076786.0.jpg
+Source: https://www.theverge.com/2017/6/30/15900578/airbnb-augmented-reality-concept-arkit-tango-isil-uzum
+Title: This augmented reality concept is like a real-life video game tutorial for your Airbnb rental
+Content: We’ve seen some cool uses for Apple’s ARKit and other phone-based augmented reality, but this concept design is one of my personal favorites: an AR overlay for settling guests into an Airbnb...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55523347/Screen_Shot_2017_06_30_at_10.27.24_AM.0.png
 ----------------------------------------------------
 id: 11
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15841200/spider-man-marvel-sony-cinematic-universe-rights-management
-Title: Sony and Marvel’s Spider-Man deal may create one universe, but two worlds
-Content: Spider-Man: Homecoming is due out in theaters on July 7th, kicking off the third solo Spider-Man franchise in 15 years. It’s a huge deal for the Hollywood studio system: Marvel Studios and Sony...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55356659/spider_man_homecoming.0.jpg
+Source: https://www.theverge.com/2017/6/30/15900634/toyota-robot-ai-paralyzed-army-veteran
+Title: Toyota built a robot to help a paralyzed Army vet around the house
+Content: Toyota recently completed its first in-home trial of its new Human Support Robot. The Japanese auto giant built the HSR to help people with disabilities perform everyday tasks around the home, like...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55523161/toyota_robot.0.gif
 ----------------------------------------------------
 id: 12
 Type: technology
-Sourse: https://www.theverge.com/tldr/2017/6/20/15841506/cars-3-garbage-can-simplehuman
-Title: Who is this $150 Simplehuman Cars-themed garbage can for?
-Content: A garbage can is a simple thing. Its only utility is as a place to store your garbage for a period of time before you move your garbage somewhere else. All a garbage can needs is depth, four sides,...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55356447/Cars3583324268c90a.0.jpg
+Source: https://www.theverge.com/circuitbreaker/2017/6/30/15900498/luzli-roller-mk01-roll-up-headphones-hand-made-custom-expensive
+Title: These $3,000 headphones roll up like a metal link bracelet
+Content: On-ear and over-ear headphones generally tend to offer dramatically better sound than smaller, in-ear buds. The trade-off is, in exchange for better music, you have to carry around the bulkier,...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55522543/TECAstudio_Luzli_Roller_Headphone.0.jpg
 ----------------------------------------------------
 id: 13
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15841638/oats-studios-cooking-with-bill-neill-blomkamp-infomercial-watch
-Title: The latest video from Neill Blomkamp’s Oats Studios is a wacky infomercial gone awry
-Content: Last week, Neil Blomkamp released Rakka, the first short video from his experimental short film project Oats Studios. The alien invasion film feels as though it’s ready to be scaled up into a...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55355875/Screen_Shot_2017_06_20_at_3.04.05_PM.0.png
+Source: https://www.theverge.com/2017/6/30/15900576/microsoft-surface-mini-tablet-photos-features
+Title: Microsoft’s canceled Surface Mini tablet emerges in leaked images
+Content: Microsoft was planning to introduce a Surface Mini tablet alongside its Surface Pro 3 at an event in May 2014. While the Surface Pro 3 was announced to much surprise, Microsoft CEO Satya Nadella...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55521781/surface_mini_hero_start.0.jpg
 ----------------------------------------------------
 id: 14
 Type: technology
-Sourse: https://www.theverge.com/circuitbreaker/2017/6/20/15841660/samsung-galaxy-note-8-august-announcement-rumor-report
-Title: Samsung’s Galaxy Note 8 will reportedly be announced in August
-Content: Samsung is planning to announce the Galaxy Note 8 in August, according to a new report from Reuters, citing a source that claims to be familiar with the matter.  
-The Reuters report also claims...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55355565/jbareham_160811_1180_A_0096.0.0.jpg
+Source: https://www.theverge.com/2017/6/30/15898292/automotive-disruption-icar
+Title: Car companies have learned little from smartphones
+Content: Software update, version l.ol
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55517835/ios61iphone1_2040.0.jpg
 ----------------------------------------------------
 id: 15
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15840848/twitch-blizzard-deal-third-party-streaming-events-overwatch-starcraft-hearthstone
-Title: Twitch and Blizzard sign a deal that brings big events to the streaming service
-Content: Twitch announced today that it has signed a deal with Blizzard Entertainment that gives the popular video game streaming site two-year, third-party live-streaming rights to some of Blizzard’s...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55354231/akrales_160314_0976_A_0028.0.0.png
+Source: https://www.theverge.com/circuitbreaker/2017/6/30/15898424/led-eyelashes-kickstarter-buy
+Title: These LED eyelashes are future fashion
+Content: Sometimes you see a product and you’re like &quot;Wow, that’s so futuristic.&quot; Then you remember you’re living in 2017, 20 years after the date that a sentient AI wiped out most of humanity in the...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55518327/2017_06_30_10_00_11.0.gif
 ----------------------------------------------------
 id: 16
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15837806/apple-ios-10-memories-iphone-old-man
-Title: In Apple’s latest ad, your iPhone is an old, hardworking man
-Content: In Apple’s latest ad for the Memories feature for iOS 10, your iPhone is an old man.
-The scene opens with a Robert De Niro lookalike strolling through a vault of archives, rummaging through old...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55354901/Screen_Shot_2017_06_20_at_10.10.00_AM.0.png
+Source: https://www.theverge.com/2017/6/30/15898386/germany-facebook-hate-speech-law-passed
+Title: Germany passes controversial law to fine Facebook over hate speech
+Content: German lawmakers have passed a controversial law under which Facebook, Twitter, and other social media companies could face fines of up to €50 million ($57 million) for failing to remove hate...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55518233/87935698.0.jpg
 ----------------------------------------------------
 id: 17
 Type: technology
-Sourse: https://www.theverge.com/circuitbreaker/2017/6/20/15841134/pdp-third-party-playstation-4-media-remote-sony
-Title: PDP’s third-party PlayStation 4 media remote looks way better than Sony’s official one
-Content: It took Sony almost two years to launch a media remote for the PlayStation 4, and when it did, the results weren’t exactly worth the wait. But now, two years later, accessory maker PDP has an...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55354415/remote.0.png
+Source: https://www.theverge.com/2017/6/29/15896702/jay-z-new-album-tidal-444-sprint-exclusive-not-available
+Title: You have until midnight to sign up for Tidal to listen to Jay Z’s new album
+Content: Jay Z’s 13th solo album 4:44 will be released exclusively on Tidal at 12AM ET, but if you haven’t signed up for the service before then, you won’t have access to the album. A source with knowledge...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55513601/634806070.0.jpg
 ----------------------------------------------------
 id: 18
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15841046/microsoft-dictate-app-office-word-powerpoint-outlook
-Title: Microsoft’s latest experimental app adds voice dictation to Office
-Content: Dictate uses the same speech recognition as Cortana.
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55354349/office2013.0.jpeg
+Source: https://www.theverge.com/2017/6/29/15896586/face-value-ticket-reseller-twickets-us
+Title: Twickets set to be the first dedicated face-value ticket reseller in the US
+Content: Twickets, a popular England-based fan-to-fan ticket resale platform, is coming to the US this fall. The platform allows fans to resell unwanted tickets, with prices capped at face value. (Any...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55513539/twickets_logo_2017_billboard_1548.0.jpg
 ----------------------------------------------------
 id: 19
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15840818/uber-tipping-option-app-seattle-minneapolis-houston
-Title: Uber finally caves and adds a tipping option to its app
-Content: Do you tip your Uber driver? Uber has always prided itself on being a cashless experience, arguing since its inception that driver tips are only optional — and maybe even unnecessary. Even as its...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55353591/akrales_160314_0978_A_0128.0.0.png
+Source: https://www.theverge.com/2017/6/29/15896606/france-station-f-startup-campus-diversity-xavier-niel
+Title: France’s new startup campus is focused on fostering entrepreneurs with diverse backgrounds
+Content: France is launching the world’s largest startup campus in a converted railway depot in Paris, and it’s keeping the door open for those from underprivileged backgrounds. The space, now dubbed...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55513389/STATIONF_Credits_Patrick_Tourneboeuf_9.0.jpg
 ----------------------------------------------------
 id: 20
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15840008/new-emoji-unicode-consortium-version-10-bitcoin-symbol
-Title: Your mom will soon be able to text the Bitcoin symbol, along with a bunch of new emoji
-Content: Bitcoin remains a thriving cryptocurrency, but its reputation as a cool, futuristic currency for savvy individuals may have just received a mortal blow. Along with a sampling of dinosaurs, shushing...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55353507/Screen_Shot_2017_06_20_at_12.07.29_PM.0.png
+Source: https://www.theverge.com/2017/6/29/15896146/zillow-will-not-sue-mcmansion-hell-blog
+Title: Zillow ends its dumb legal crusade against McMansion Hell blogger
+Content: When Zillow sent Kate Wagner, the 23-year-old behind the popular blog McMansion Hell, a cease and desist letter this week, the real estate listing company gave her until the end of today to delete...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55512729/tumblr_inline_or8yeyoa441sppt0x_1280.0.png
 ----------------------------------------------------
 id: 21
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15839768/firefox-focus-is-out-on-android-for-ad-free-browsing
-Title: Firefox Focus is out on Android for ad-free browsing
-Content: Firefox released an Android version of its private browser Firefox Focus today. It’s the software company’s answer to consumers’ desire for greater internet privacy with ad blocking built in at the...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55351573/FF_Focus_Blog_Header_Android_01.0.png
+Source: https://www.theverge.com/2017/6/29/15894884/aquila-drone-facebook-second-flight-success
+Title: Facebook’s Aquila drone completed a second flight without breaking anything
+Content: Facebook’s Aquila drone completed its second flight this past May during which it flew for an hour and 46 minutes. Facebook detailed the flight in a blog post and explained the modifications it...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55511423/facebookPR_1143_aquila_takeoff_04_sized_fin.0.0.jpg
 ----------------------------------------------------
 id: 22
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15840946/supernatural-spinoff-wayward-sisters-daughters-the-cw
-Title: Supernatural fans will get a spinoff show inspired by the one they’ve been asking for
-Content: Fans rule the CW
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55353257/supernatural.0.jpg
+Source: https://www.theverge.com/2017/6/29/15895462/square-cash-customized-prepaid-debit-cards-open-app
+Title: Square opens customized prepaid debit cards program to everyone
+Content: Square’s been slowly rolling out its physical Square Cash Cards to users for the last few weeks. Today, Square CEO Jack Dorsey announced that, starting now, anyone can get one of the prepaid debit...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55511351/Screen_Shot_2017_06_29_at_4.27.55_PM.0.png
 ----------------------------------------------------
 id: 23
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15840992/spotify-windows-store-app-download
-Title: Spotify is now available in the Windows Store
-Content: Microsoft revealed at Build last month that Spotify would be arriving in the Windows Store, and it&#39;s now available today. While Spotify has created mobile apps in the past for Windows Phone, the...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55353141/spotifywindowsstore.0.jpg
+Source: https://www.theverge.com/2017/6/29/15893452/trump-fcc-new-commissioner-nominees
+Title: Trump’s FCC is going to start moving much faster
+Content: With the flurry of changes happening at the FCC over the past few months, it may be hard to believe that the commission has been short staffed the entire time. But since the beginning of the Trump...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55511039/673446400.0.jpg
 ----------------------------------------------------
 id: 24
 Type: technology
-Sourse: https://www.theverge.com/circuitbreaker/2017/6/20/15840814/amazon-dash-wand-alexa-review
-Title: Amazon&#39;s new Dash Wand is half magic, half boring
-Content: Amazon’s $13.7 billion acquisition of Whole Foods is getting all the media attention right now, but the company made another grocery-related investment last week that’s just as interesting: it’s...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55353049/akrales_170620_1791_0015.0.jpg
+Source: https://www.theverge.com/2017/6/29/15889300/iphone-killed-phone-steve-jobs-10th-anniversary-texting-internet-communication
+Title: Even Steve Jobs didn&#39;t understand what the iPhone truly was
+Content: The phone is dead. The iPhone killed it. 
+It’s hard to say when exactly the inflection point came. Was there was a single point in time that the devices in our pockets became computers first and...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55510699/akrales_170629_1817_0003.0.jpg
 ----------------------------------------------------
 id: 25
 Type: technology
-Sourse: https://www.theverge.com/circuitbreaker/2017/6/20/15840410/kodak-tablet-7-10-archos-europe-android-nougat
-Title: Kodak is selling boring Android tablets in Europe
-Content: Kodak announced back in February that it would be working with Archos to build its own branded Android tablets for the European market, and today we’re seeing the first glimpse of that with the K...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55352315/Kodak_tablet_10.0.jpg
+Source: https://www.theverge.com/2017/6/29/15894520/iphone-anniversary-10-year-look-back
+Title: iPhone 10th anniversary: looking back at how Apple changed the mobile landscape
+Content: As the Apple iPhone officially turns 10, we look back at how the introduction of Apple’s touchscreen smartphone influenced the rest of the mobile industry and society as a whole. From bringing us...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55510297/jbareham_150416_apple_0023_03.0.jpg
 ----------------------------------------------------
 id: 26
 Type: technology
-Sourse: http://www.voxmedia.com/careers
-Title: We&#39;re building great things, and we need your talent.
-Content: We&#39;re building great things, and we need your talent
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png
+Source: https://www.theverge.com/2017/6/29/15856222/apple-macos-high-sierra-10-13-public-beta-availability-download
+Title: The macOS High Sierra public beta is now available
+Content: Apple just launched the public beta of macOS High Sierra. It&#39;s available to download now if you&#39;re feeling brave (and enroll your devices), or you can sit back and let everyone else face the...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55510075/mac_sierra_storage.0.jpg
 ----------------------------------------------------
 id: 27
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15840336/killer-whale-depredation-fishing-thievery-halibut
-Title: Killer whales are stalking boats and stealing their fish
-Content: Pods of killer whales are stalking the boats of Alaska fishermen and stealing their halibut catches, leaving the men with no fish and thousands of gallons of fuel wasted trying to flee.
-It’s not...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55352143/2760406217_c16aa801d3_b.0.jpg
+Source: https://www.theverge.com/2017/6/29/15894850/oneplus-5-screen-jelly-scrolling-statement
+Title: OnePlus says ‘jelly’ scrolling effect on OnePlus 5 is normal
+Content: OnePlus’ latest flagship phone has gotten critical acclaim for its fast performance and clean software, but some owners of the new device have complained about a weird jelly-like effect that shows...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55509873/akrales_170615_1768_0121.0.jpg
 ----------------------------------------------------
 id: 28
 Type: technology
-Sourse: https://www.theverge.com/tldr/2017/6/20/15840452/audible-alexa-harry-potter-sorcerers-stone-free-chapters
-Title: Audible is giving away 90 minutes of Harry Potter, the literary equivalent of an AOL trial CD
-Content: The first four chapters of Harry Potter and the Sorcerer’s Stone are available to stream for free, through Audible, to your Alexa, from now until June 26th. Narrated by English actor Jim Dale, this...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55352107/slack-imgs.com.0.0.jpeg
+Source: https://www.theverge.com/2017/6/29/15894546/etihad-airways-neighbour-free-empty-seats
+Title: Etihad Airways’ new neighbor-free concept lets you bid for empty seats
+Content: Etihad Airways has introduced a new &quot;Neighbour-Free Seat&quot; concept, allowing passengers to bid on up to three extra empty seats adjacent to their booked seat. If the bid is won, the extra seats will...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55509277/Etihad_livery_7_Standard.0.jpg
 ----------------------------------------------------
 id: 29
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15840376/net-neutrality-nancy-pelosi-ajit-pai-letter
-Title: Nancy Pelosi slams Ajit Pai in letter supporting net neutrality
-Content: FCC chairman Ajit Pai has called his move to repeal net neutrality &quot;a fight that we are going to win,&quot; but that doesn’t mean he’s not getting pushback: Democratic House Minority Leader Nancy Pelosi...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55352071/696060518.0.jpg
+Source: https://www.theverge.com/2017/6/29/15894848/netflix-sense8-two-hour-special-2018-uncancelled-fan-campaign
+Title: Sense8 will return from Netflix cancellation in 2018 with a surprise two-hour special
+Content: After getting canceled by Netflix at the beginning of June following the release of its second season, Sense8 is now getting a last-minute stay of execution in the form of a two-hour special. It...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55509155/Sense8_201_Unit_22706_R.0.jpg
 ----------------------------------------------------
 id: 30
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15839824/project-fi-group-plans-repay
-Title: Project Fi now automatically calculates and bills each member of a group plan
-Content: Google’s wireless service Project Fi is best known for keeping things simple for subscribers with flat usage rates, and today, it unveiled a new tool to streamline group plan payments. Called Group...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55351705/01_ManageRepay_copy.0.jpg
+Source: https://www.theverge.com/2017/6/29/15892910/climate-change-south-midwest-economic-loss
+Title: Climate change will hit the South and Midwest the hardest
+Content: Southern and Midwestern US states will suffer the biggest economic losses from climate change, according to a new study. Some of these areas, already among the poorest in the country, stand to lose...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55508715/damages_total_2080_to_2090.0.jpg
 ----------------------------------------------------
 id: 31
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15836208/microsoft-kaspersky-eu-anti-virus-complaint-response
-Title: Microsoft admits it disables anti-virus software in response to Kaspersky&#39;s EU complaint
-Content: Microsoft’s anti-virus efforts have hit the news recently, following the spread of the massive WannaCry malware and an EU antitrust complaint from anti-virus company Kaspersky. The software giant...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55348739/microsoftlogostock1_1020.0.1497971599.jpg
+Source: https://www.theverge.com/circuitbreaker/2017/6/29/15894626/lg-x-charge-xfinity-mobile-budget-android-battery-life
+Title: LG is bringing a cheap phone with a huge battery to Xfinity Mobile
+Content: Comcast&#39;s new phone service, Xfinity Mobile, has an astonishingly minimal phone lineup. There are a few iPhone models, a couple Samsung Galaxy handsets, and a $132 LG phone from 2016, the LG X...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55508523/LG_X_charge_5.0.jpg
 ----------------------------------------------------
 id: 32
 Type: technology
-Sourse: https://www.theverge.com/circuitbreaker/2017/6/20/15836434/oneplus-5-price-release-date-how-to-buy
-Title: The OnePlus 5 goes on sale June 27th starting at $479, but you can get one today
-Content: The black OnePlus 5, which has better specs, is more expensive at $539.
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55344705/akrales_170615_1768_0081.0.jpg
+Source: https://www.theverge.com/circuitbreaker/2017/6/29/15894526/apple-iphone-keyboard-prototype-photos-ken-kocienda
+Title: Creator of Apple’s smartphone keyboard reveals early iPhone prototypes
+Content: One of the most stunning elements of the first iPhone, which turns 10 years old today, is that it jettisoned the idea of a physical keyboard in favor of a software one. The idea, in hindsight,...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55508165/jbareham_150416_apple_0023_05.0.jpg
 ----------------------------------------------------
 id: 33
 Type: technology
-Sourse: https://www.theverge.com/circuitbreaker/2017/6/20/15839718/anker-kickstarter-zolo-liberty-plus-wireless-earbuds
-Title: Anker is launching a Kickstarter campaign for its new line of wireless earbuds
-Content: Smartphone accessory maker Anker is getting serious about audio with a new brand name and product line called Zolo. The company plans on selling its first product under the name, the Zolo Liberty+...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55351463/Liberty__6.0.jpg
+Source: https://www.theverge.com/2017/6/29/15893960/apple-iphone-creators-smartphone-addiction-ideo-interview
+Title: The creators of the iPhone are worried we’re too addicted to technology
+Content: The iPhone, which turns 10 years old today, is arguably one of the most transformative pieces of consumer technology ever created. It kicked off the smartphone boom by putting the first accessible...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55508101/jbareham_150416_apple_0023_04.0.jpg
 ----------------------------------------------------
 id: 34
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15838478/kickstarter-gold-remix-popular-projects-new-versions-editions-creators
-Title: Kickstarter Gold brings back popular old projects with new spins
-Content: Kickstarter is bringing back some of its most popular projects in a new initiative called Kickstarter Gold. This will bring back a curated batch of older projects to the crowdfunding service to...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55351271/4ca8506fff2c550f34d6e658fffaf13b_original.0.png
+Source: https://www.theverge.com/circuitbreaker/2017/6/29/15894362/bluetooth-enabled-fidget-spinners-explode-while-charging
+Title: Bluetooth-enabled fidget spinners explode while charging
+Content: The shoddily mass-produced electronic gadgets are at it again! In a completely expected twist in its sad, inevitable fate, two cases of exploding Bluetooth-enabled fidget spinners have been...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55508037/fidget2.0.gif
 ----------------------------------------------------
 id: 35
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15839714/amazon-echo-yellow-color-voice-text-message
-Title: Amazon Echo will turn yellow when you get a voice or text message
-Content: Amazon is adding some color to its Echo. The voice assistant will soon be able to turn yellow when you have a voice or text message, as opposed to the green light that appears when you have an...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55350809/amazon-echo-verge-9723.0.0.jpg
+Source: https://www.theverge.com/2017/6/29/15892648/jay-z-albums-corporate-bargaining-chips-444-sprint-tidal
+Title: Jay Z has used his latest albums as corporate bargaining chips
+Content: In the last four years, Jay Z has released two albums, both through non-traditional means. While most artists would sign with a record label to release their album, the most successful hip-hop...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55507727/634806206.0.jpg
 ----------------------------------------------------
 id: 36
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15834912/instagram-live-replay-stories-250-million-users
-Title: You can now save your Instagram live streams to replay for 24 hours
-Content: A new feature for Instagram stories
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55340313/Post_Live_Creation_2.0.png
+Source: https://www.theverge.com/2017/6/29/15892894/insecticides-bees-neonicotinoids-colony-collapse-environment
+Title: Yes, insecticides do cause bees to die
+Content: A common insecticide really does contribute to the death of bees, according to a large-scale field study. This helps set to rest some of the controversy over the use of the chemicals. 
+The type of...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55505603/tsvetkov1HR.0.jpg
 ----------------------------------------------------
 id: 37
 Type: technology
-Sourse: https://www.theverge.com/circuitbreaker/2017/6/20/15838366/bluetooth-coaster-brio-release-announcement
-Title: This connected coaster comes with its own social network and notifies you if someone touches your drink
-Content: The Brio is supposed to do it all. It’s a Bluetooth-connected coaster and a social network. It raises awareness about &quot;drink safety,&quot; and even has its own mascot — an owl named Sal. Sal stands for...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55350557/brio_on_bar_web.0.png
+Source: https://www.theverge.com/circuitbreaker/2017/6/29/15894052/alpine-ilx-107-wireless-apple-carplay-receiver-aftermarket-buy
+Title: Alpine’s aftermarket, wireless Apple CarPlay receiver is now for sale
+Content: Alpine showed of its wireless Apple Carplay receiver, the iLX-107, at CES this year, and now, that device is available from authorized retailers in North America. The 7-inch VGA touchscreen also...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55507591/alpine_ilx_107_wireless_carplay_2.0.jpg
 ----------------------------------------------------
 id: 38
 Type: technology
-Sourse: https://www.theverge.com/tldr/2017/6/20/15838330/google-virtual-fidget-spinner-app-search
-Title: Even Google has a virtual fidget spinner now
-Content: If you search for &quot;fidget spinner&quot; on Google, you’ll learn that the fad du jour currently occupies what physicists call &quot;quantum superposition.&quot; Fidget spinners &quot;are over,&quot; but they’re also &quot;p...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55348657/spinner.0.gif
+Source: http://www.voxmedia.com/careers
+Title: We&#39;re building great things, and we need your talent.
+Content: We&#39;re building great things, and we need your talent
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55507557/Faraday_Future_pikes_peak_2.0.gif
 ----------------------------------------------------
 id: 39
 Type: technology
-Sourse: https://www.theverge.com/2017/6/20/15837522/apple-internal-presentation-leaks
-Title: Internal Apple presentation on how to handle leaks gets leaked
-Content: The Outline recently obtained an hour-long audio recording from an internal briefing at Apple titled &quot;Stopping Leakers - Keeping Confidential at Apple.&quot; The presentation, held for about 100 people,...
-Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55348169/apple.0.0.jpg
+Source: https://www.theverge.com/2017/6/29/15865364/faraday-future-ff91-pikes-peak-video-highlights
+Title: Watch Faraday Future’s all-electric car race up Pikes Peak
+Content: I don’t think anyone would argue that Faraday Future’s all-electric car, the FF91, doesn’t look fast. They might argue over the strange, &quot;bulky crossover&quot; design. They might argue that the videos...
+Image: https://cdn.vox-cdn.com/uploads/chorus_image/image/55507557/Faraday_Future_pikes_peak_2.0.gif
 ----------------------------------------------------
